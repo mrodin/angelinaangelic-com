@@ -91,11 +91,15 @@ strong {
         clear: both;
     }
 
+.link {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
 .active-link {
     margin-top: -4px;
     border-top: 4px solid #ffffff;
 }
-
 
 /* HEADER */
 
