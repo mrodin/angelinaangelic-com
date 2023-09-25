@@ -153,7 +153,7 @@ nav {
 .wrapper {
     float: left;
     width: 980px;
-    min-height: 650px;
+    min-height: 65vh;
     margin-top: 75px;
 }
 
